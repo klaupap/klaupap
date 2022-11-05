@@ -32,9 +32,9 @@
 
 ### Do your best - To Do App - Ironhack Bootcamp Final Project
 
-![](https://github.com/klaupap/klaupap/blob/main/Captura%20de%20Pantalla%202022-11-05%20a%20les%2013.45.53.png)
+![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/doyourbest.png)
 
-![](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
+![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
 
 
 ## 📫 How to reach me 
