@@ -32,9 +32,11 @@
 
 ### Doing your best - To Do App - Ironhack Bootcamp Final Project
 
-[https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/doyourbest.png)
+![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/doyourbest.png)
 
-[https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
+![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
+
+ <a href="[https://git-scm.com/](https://doingyourbest.netlify.app/)" target="_blank" rel="noreferrer"> <img src="https://github.com/klaupap/klaupap/blob/main/doyourbest.png" alt="git" width="40" height="40"/> </a> 
 
 
 ## 📫 How to reach me 
