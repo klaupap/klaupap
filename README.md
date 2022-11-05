@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/claudiamurall" target="blank"><img src="https://img.shields.io/twitter/follow/claudiamurall?logo=twitter&style=for-the-badge" alt="claudiamurall" /></a> </p>
 
-- 🛹 I’m currently working on [MACBA](https://www.macba.cat/ca) as a CRM Marketing Manager
+* 🛹 I’m currently working on [MACBA](https://www.macba.cat/ca) as a CRM Marketing Manager
 - 🚀 I’m currently learning Front End Development and UX/UI Design
 - 🪐 I'm interested in AR/VR
 - 🎮 Fun fact: I love doing sport and playing videogames
