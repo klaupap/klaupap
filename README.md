@@ -30,7 +30,7 @@
 
 ## 🚀 My projects
 
-### Doing your best - To Do App - Ironhack Bootcamp Final Project
+### Do your best - To Do App - Ironhack Bootcamp Final Project
 
 ![](https://github.com/klaupap/klaupap/blob/main/Captura%20de%20Pantalla%202022-11-05%20a%20les%2013.45.53.png)
 
