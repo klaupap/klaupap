@@ -37,7 +37,7 @@
 ![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
 
 
-<a href="ttps://doingyourbest.netlify.app/" target="_blank"> <img src="[https://github.com/klaupap/klaupap/blob/main/doyourbest.png]" width="45%" height='auto'/></a>
+<a href="https://doingyourbest.netlify.app/" target="_blank"> <img src="https://github.com/klaupap/klaupap/blob/main/doyourbest.png" width="45%" height='auto'/></a>
 
 
 
