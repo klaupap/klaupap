@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Clàudia Murall 👋
 
-<!--
-**klaupap/klaupap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🛹 I’m currently working on [MACBA](https://www.macba.cat/ca) as a Digital Marketer
+- 🌱 I’m currently learning Front End Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Fun fact: I love doing sport and playing videogames
+
+
+
+## 🔧 Skills
+
+⚡️ Critical thinking, decision-making and problem solving skills.
+
+## 📫 How to reach me 
+
+[linkedin](https://www.linkedin.com/in/claudiamurall/)
+[twitter](www.twitter.com/claudiamurall)
+
