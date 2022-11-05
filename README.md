@@ -7,7 +7,7 @@
 🛹 I’m currently working on [MACBA](https://www.macba.cat/ca) as a CRM Marketing Manager <br>
 🚀 I’m currently learning Front End Development and UX/UI Design <br>
 🪐 I'm interested in AR/VR <br>
-🎮 Fun fact: I love doing sport and playing videogames <br>
+🎮 Fun fact: I love nature, doing sport and playing videogames <br>
 
 ## 🔧 Skills
 
