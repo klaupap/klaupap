@@ -50,6 +50,9 @@
 <a href="https://linkedin.com/in/claudiamurall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claudiamurall" height="30" width="40" /></a>
 </p>
 
+## 🧑🏻‍💻 Stats
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klaupap&show_icons=true&locale=en&layout=compact" alt="klaupap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klaupap&show_icons=true&locale=en" alt="klaupap" /></p>
