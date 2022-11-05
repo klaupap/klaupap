@@ -30,11 +30,11 @@
 
 ## 🚀 My projects
 
-### Do your best - To Do App - Ironhack Bootcamp Final Project
+### Doing your best - To Do App - Ironhack Bootcamp Final Project
 
-![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/doyourbest.png)
+[https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/doyourbest.png)
 
-![https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
+[https://doingyourbest.netlify.app/](https://github.com/klaupap/klaupap/blob/main/Doing%20your%20best.gif)
 
 
 ## 📫 How to reach me 
